@@ -22,9 +22,7 @@
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
 - [Architecture](#-architecture)
-- [Installation](#-installation)
 - [Project Structure](#-project-structure)
-- [Contact](#-contact)
 
 ---
 
