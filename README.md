@@ -84,3 +84,57 @@ Styling: CSS3 with Custom Properties (Variables)
 Icons: Font Awesome 6.5.1
 Fonts: Google Fonts (Inter)
 Animations: CSS Animations & Intersection Observer API
+```
+### Development Tools
+```yaml
+Version Control: Git & GitHub
+IDE: VS Code
+Package Manager: npm
+Environment: Windows 11 / PowerShell
+Browser Testing: Chrome DevTools, Firefox, Edge
+```
+### 🏗 Architecture
+```yaml
+App.jsx
+├── Navbar.jsx          # Sticky navigation with logo and mobile menu
+├── Hero.jsx            # Hero section with animated stats and floating cards
+├── Services.jsx        # Services showcase (Web Dev, Social, Branding)
+├── Approach.jsx        # Process/approach section with steps
+├── Contact.jsx         # Contact form with validation
+└── Footer.jsx          # Footer with links and newsletter subscription
+```
+### Styling Architecture
+```yaml
+App.css
+├── CSS Variables       # Theme colors, shadows, spacing
+├── Global Styles       # Reset, typography, container
+├── Component Styles    # Each component's styles
+├── Animations          # Keyframes and transitions
+└── Media Queries       # Responsive breakpoints
+```
+### 📁 Project Structure
+```yaml
+frontend/
+├── public/
+│   └── favicon.ico              # Tab icon
+├── src/
+│   ├── assets/
+│   │   └── nezaweb-logo.png     # Company logo
+│   ├── components/
+│   │   ├── Navbar.jsx           # Navigation with logo
+│   │   ├── Hero.jsx             # Hero with animations
+│   │   ├── Services.jsx         # Services showcase
+│   │   ├── Approach.jsx         # Process section
+│   │   ├── Contact.jsx          # Contact form
+│   │   └── Footer.jsx           # Footer with links
+│   ├── App.css                  # Main styles
+│   ├── App.jsx                  # Main component
+│   ├── index.css                # Global styles
+│   └── main.jsx                 # Entry point
+├── index.html                   # HTML template
+├── package.json                 # Dependencies
+├── vite.config.js               # Vite configuration
+├── eslint.config.js             # ESLint configuration
+├── .gitignore                   # Git ignore file
+└── README.md                    # Documentation
+```
