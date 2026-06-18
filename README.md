@@ -11,7 +11,7 @@
 
 **A modern, responsive agency website for branding, web development, and social media management**
 
-[Live Demo](#) • [Report Bug](#) • [Request Feature](#)
+[Live Demo](https://nezaweb.vercel.app/) • [Report Bug](#) • [Request Feature](#)
 
 </div>
 
